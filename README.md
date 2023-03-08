@@ -10,7 +10,7 @@
 
 ## 😁 Face Animation 제작과정
 
-## Body Animation 제작과정
+## 🤸‍♂️ Body Animation 제작과정
 
 
 <details>
