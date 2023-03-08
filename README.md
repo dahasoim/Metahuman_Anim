@@ -10,7 +10,7 @@
 
 ## 😁 Face Animation 제작과정
 
-
+## Body Animation 제작과정
 
 
 <details>
@@ -21,6 +21,6 @@
 접은 내용
 </details>
 
-## UE4 - Dialogue System 적용과정
+## UE4 - Dialogue System 내 Animation 적용과정
 
 ## 역할
