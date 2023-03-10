@@ -50,6 +50,6 @@
 
 ## 역할
 |이름|역할|
-    |------|---|
-    |안소라|08~13 Face Animation 세부수정|
-    |임혜진|Face/Body Animation 생성 및 세부수정<br>프로그램 내 Animation 적용|
+|------|---|
+|안소라|08~13 Face Animation 세부수정|
+|임혜진|Face/Body Animation 생성 및 세부수정<br>프로그램 내 Animation 적용|
