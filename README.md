@@ -25,6 +25,7 @@
 ![image](https://user-images.githubusercontent.com/57169754/224016219-6deabffb-6efb-4fe0-83a6-e6374d17c85f.png)<br> ⑤ *.fbx를 UE4내의 Sequencer 기능을 통해 Animation Sequce로 구워 **Dialogue System**에 등록할 수 있도록 한다.
 - **Dialogue System**은 이 Kiosk 프로그램의 메인 시스템이며, 상황에 맞는 Animation 및 Audio, 기능을 출력하고 DB조회/저장 등을 수행 하는 시스템이다.
 
+<!--
 번외) <details>
 <summary> 🪄 하다가 접었지만 굉장히 기깔나는 Face Anim 구현방법</summary>
 
@@ -34,6 +35,7 @@
 </details>
 
 <br>
+-->
 
 ## 🤸‍♂️ Body Animation 제작과정
 ![image](https://user-images.githubusercontent.com/57169754/224227003-152b156a-00e8-4bf6-bc2c-a9a7df707989.png)
